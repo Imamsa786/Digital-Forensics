@@ -1,4 +1,4 @@
-# Ex_06 Sleuth Kit 
+# Ex.No.06 Sleuth Kit 
 
 # Aim:
 To study and use of Sleuth Kit for analyzing disk images and recovering digital evidence through command-line forensic tools.
