@@ -1,13 +1,13 @@
 # Ex.No.4 MHA (Mail Header Analyzer)
 # 🎯 Aim
-To trace the origin of an email and verify its authenticity by analyzing its header for signs of spoofing using a Mail Header Analyzer (MHA). ✉️🔍
+To trace the origin of an email and verify its authenticity by analyzing its header for signs of spoofing using a Mail Header Analyzer (MHA).
 # 🔎 Description
 The Mail Header Analyzer (MHA) is a forensic tool used to examine the metadata of an email by analyzing its header. Every email contains hidden technical details such as sender IP address, routing path, mail server information, and authentication records (SPF, DKIM, DMARC). By analyzing these headers, investigators can trace the true origin of an email, detect spoofing attempts, and verify its authenticity. This process is widely used in cyber forensics, phishing investigations, and email security audits.
 
 # 🛠️ Tools Required
-💻 Computer System – to perform analysis.
-🌐 Web Browser – to access online header analyzer tools.
-📧 Email Account – Gmail, Outlook, or any client.
+ Computer System – to perform analysis.
+ Web Browser – to access online header analyzer tools.
+ Email Account – Gmail, Outlook, or any client.
 
 # Procedure
 ## Step 1: Extract the Email Header
@@ -55,4 +55,4 @@ Although alignment was correct, DKIM authentication failed, indicating the messa
 <br> <img width="1872" height="555" alt="Screenshot 2025-09-01 212617" src="https://github.com/user-attachments/assets/8e78bfa0-1d0a-48b8-986f-92b42693a6ba" />
 
 # Result
-The Mail Header Analyzer 🔍 successfully examined the raw email header and provided detailed insights into the message routing, authentication, and origin. The analysis showed that SPF ✅ and DMARC ✅ checks passed, confirming the sender’s server was authorized, while DKIM authentication failed, indicating a possible issue with the email’s digital signature. This demonstrates how MHA can be used in cyber forensics 🛡️ to verify authenticity, detect spoofing attempts 🚨, and trace the true origin of an email📧.
+The Mail Header Analyzer successfully examined the raw email header and provided detailed insights into the message routing, authentication, and origin. The analysis showed that SPF and DMARC checks passed, confirming the sender’s server was authorized, while DKIM authentication failed, indicating a possible issue with the email’s digital signature. This demonstrates how MHA can be used in cyber forensics to verify authenticity, detect spoofing attempts, and trace the true origin of an email.
