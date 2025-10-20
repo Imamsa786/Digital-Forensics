@@ -7,10 +7,10 @@ To analyze and capture network traffic using the Wireshark tool in order to stud
 Wireshark is a widely used network protocol analyzer that enables real-time capturing and detailed inspection of network traffic. It allows investigators and network administrators to monitor data packets, analyze communication protocols, troubleshoot network issues, and detect malicious activities. With support for hundreds of protocols, Wireshark provides both live capture and offline analysis, making it an essential tool in networking and cybersecurity.
 
 # 🛠️ Tools Required
-🖥️ Computer or Laptop.
-🌐 Active Internet connection / Network traffic source.
-📥 Wireshark software installed.
-🛡️ Administrative privileges to capture live traffic.
+ Computer or Laptop.
+ Active Internet connection / Network traffic source.
+ Wireshark software installed.
+ Administrative privileges to capture live traffic.
 
 
 ## Procedure: Capturing Plaintext Passwords
@@ -95,4 +95,4 @@ HTML Form URL Encoded
 ---
 
 ## Result
-By using the Wireshark tool, network traffic was successfully captured and analyzed. Different protocols such as HTTP, TCP, UDP, and ICMP were observed 📡, along with source and destination IP addresses 🌐. The packet analysis helped in understanding communication patterns and detecting unusual or suspicious activities 🔍, proving Wireshark’s effectiveness in network monitoring and forensic investigation🛡️.
+By using the Wireshark tool, network traffic was successfully captured and analyzed. Different protocols such as HTTP, TCP, UDP, and ICMP were observed, along with source and destination IP addresses. The packet analysis helped in understanding communication patterns and detecting unusual or suspicious activities, proving Wireshark’s effectiveness in network monitoring and forensic investigation.
