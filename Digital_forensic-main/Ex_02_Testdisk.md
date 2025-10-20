@@ -84,8 +84,7 @@ Windows: Download the executable from the official CGSecurity website.
 
   ### 6. Perform a Deeper Search
 - If the Quick Search fails to find your lost partitions, select [Deeper Search].
-
--<br>
+<br>
 <br>
 <img width="1034" height="693" alt="Screenshot 2025-09-01 214332" src="https://github.com/user-attachments/assets/7cd5bc6d-c467-4b65-85f6-39443433c353" />
 
@@ -133,4 +132,4 @@ Windows: Download the executable from the official CGSecurity website.
 - If you wrote a new partition table to the drive, it is recommended to restart your computer to allow the operating system to recognize the changes.
 
 - # Result
-- Using the TestDisk tool, the lost partition was successfully detected and restored 🔄. The recovered files and directories were made accessible again without data modification 📂, and the integrity of the restored data was verified ✅. This demonstrates the tool’s effectiveness in partition recovery and data forensics.
+- Using the TestDisk tool, the lost partition was successfully detected and restored. The recovered files and directories were made accessible again without data modification, and the integrity of the restored data was verified. This demonstrates the tool’s effectiveness in partition recovery and data forensics.
