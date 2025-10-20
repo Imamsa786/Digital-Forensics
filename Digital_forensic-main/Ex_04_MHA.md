@@ -9,8 +9,8 @@ The Mail Header Analyzer (MHA) is a forensic tool used to examine the metadata o
 🌐 Web Browser – to access online header analyzer tools.
 📧 Email Account – Gmail, Outlook, or any client.
 
-## Procedure
-# Step 1: Extract the Email Header
+# Procedure
+## Step 1: Extract the Email Header
 
 Copy the full, raw email header.
 
@@ -20,7 +20,7 @@ Select all the header text and copy it.
 
 <br> <img width="1859" height="945" alt="Screenshot 2025-09-01 212142" src="https://github.com/user-attachments/assets/75ec1850-6318-4346-8125-bcac18dddd44" /> <br>
 <img width="1505" height="919" alt="Screenshot 2025-09-01 212318" src="https://github.com/user-attachments/assets/28e3b6d8-f667-444a-bb3d-c45f1911d4e5" />
-# Step 2: Use a Mail Header Analyzer
+## Step 2: Use a Mail Header Analyzer
 
 Open an online tool such as MXToolbox Email Header Analyzer.
 
@@ -29,7 +29,7 @@ Paste the copied email header into the analysis box.
 Click Analyze to generate a structured report.
 
 <br> <img width="1919" height="901" alt="Screenshot 2025-09-01 212349" src="https://github.com/user-attachments/assets/672d3f77-1c2f-413e-964c-ea3b7ce45bb4" /> <br> <img width="1917" height="903" alt="Screenshot 2025-09-01 212430" src="https://github.com/user-attachments/assets/9c73b860-36ab-4c19-9440-4f855fc42056" />
-# Step 3: Analyze the Report
+## Step 3: Analyze the Report
 Review the Delivery Summary
 
 DMARC Compliance – The email passed DMARC checks.
