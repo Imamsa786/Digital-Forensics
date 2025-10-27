@@ -1,4 +1,4 @@
-#  AFLogical OSE – Android Data Extraction Experiment
+# Ex.No.07  AFLogical OSE – Android Data Extraction Experiment
 
 ##  Aim
 To extract and analyze data from an **Android device** using **AFLogical OSE**, an open-source forensic acquisition tool, for recovering call logs, contacts, SMS, and other device data.
