@@ -1,5 +1,5 @@
 
-#  Experiment: Using Steg-Expose to Detect Hidden Data in Images
+# Ex.no.08  Experiment: Using Steg-Expose to Detect Hidden Data in Images
 
 # Aim
 To use **Steg-Expose**, an open-source steganalysis tool, to detect hidden data embedded within image files.
