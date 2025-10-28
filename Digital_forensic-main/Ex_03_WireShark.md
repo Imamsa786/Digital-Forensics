@@ -1,12 +1,12 @@
 #   Ex.No.3   WIRESHARK
-# 🎯 Aim:
+#  Aim:
 To analyze and capture network traffic using the Wireshark tool in order to study communication protocols, identify network activities, and detect possible anomalies or security issues.
 
-# 📖 Description
+#  Description
 
 Wireshark is a widely used network protocol analyzer that enables real-time capturing and detailed inspection of network traffic. It allows investigators and network administrators to monitor data packets, analyze communication protocols, troubleshoot network issues, and detect malicious activities. With support for hundreds of protocols, Wireshark provides both live capture and offline analysis, making it an essential tool in networking and cybersecurity.
 
-# 🛠️ Tools Required
+#  Tools Required
  Computer or Laptop.
  Active Internet connection / Network traffic source.
  Wireshark software installed.
