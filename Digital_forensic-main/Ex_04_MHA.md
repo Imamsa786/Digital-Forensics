@@ -1,10 +1,10 @@
 # Ex.No.4 MHA (Mail Header Analyzer)
-# 🎯 Aim
+#  Aim
 To trace the origin of an email and verify its authenticity by analyzing its header for signs of spoofing using a Mail Header Analyzer (MHA).
-# 🔎 Description
+#  Description
 The Mail Header Analyzer (MHA) is a forensic tool used to examine the metadata of an email by analyzing its header. Every email contains hidden technical details such as sender IP address, routing path, mail server information, and authentication records (SPF, DKIM, DMARC). By analyzing these headers, investigators can trace the true origin of an email, detect spoofing attempts, and verify its authenticity. This process is widely used in cyber forensics, phishing investigations, and email security audits.
 
-# 🛠️ Tools Required
+#  Tools Required
  Computer System – to perform analysis.
  Web Browser – to access online header analyzer tools.
  Email Account – Gmail, Outlook, or any client.
