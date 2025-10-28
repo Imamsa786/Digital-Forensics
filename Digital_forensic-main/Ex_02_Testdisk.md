@@ -131,5 +131,5 @@ Windows: Download the executable from the official CGSecurity website.
 
 - If you wrote a new partition table to the drive, it is recommended to restart your computer to allow the operating system to recognize the changes.
 
-- # Result
+ # Result
 - Using the TestDisk tool, the lost partition was successfully detected and restored. The recovered files and directories were made accessible again without data modification, and the integrity of the restored data was verified. This demonstrates the tool’s effectiveness in partition recovery and data forensics.
