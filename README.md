@@ -19,6 +19,12 @@ Click on the Digital_forensic-main folder to open several digital forensic tools
 ## TEST DISK
 ## WIRESHARK
 ## MHA(MAIL HEADER ANALYSER)
+## Autopsy
+## Sleuth kit
+## AF Logical OSP
+## Stegnography
+## Process Explorer
+## Ghidra
 <br>
 <br>
 
