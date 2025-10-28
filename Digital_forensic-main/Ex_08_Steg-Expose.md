@@ -12,7 +12,6 @@ Steg-Expose is an open-source steganalysis tool designed to detect hidden data w
 - **Steg-Expose** (Java-based steganography detection tool)  
 - **Java Runtime Environment (JRE)**  
 - **Command-line interface (Terminal or Command Prompt)**  
-- Sample images (some with hidden data and some normal)
 
 
 
