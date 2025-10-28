@@ -15,7 +15,7 @@ This is created to encourage and educate the people regarding the forensic tools
 <br>
 ## HOW To open
 Click on the Digital_forensic-main folder to open several digital forensic tools such as
-These are the list of Experiments
+
 ## FTK IMAGER
 ## TEST DISK
 ## WIRESHARK
