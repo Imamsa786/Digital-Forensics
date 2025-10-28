@@ -10,6 +10,8 @@ The Mail Header Analyzer (MHA) is a forensic tool used to examine the metadata o
  Email Account – Gmail, Outlook, or any client.
  
 
+
+
 # Procedure
 ## Step 1: Extract the Email Header
 
