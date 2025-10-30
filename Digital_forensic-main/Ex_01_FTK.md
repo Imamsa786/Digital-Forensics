@@ -12,8 +12,6 @@ FTK Imager is a forensic acquisition tool developed by AccessData that allows in
 - Right-click the FTK Imager icon and select **Run as administrator**.
 <br>
 <br>
-
-
 ![Image](https://github.com/user-attachments/assets/16c58e5a-5b6a-4e62-b67f-b2f0307f3663)
 <br>
 <br>
@@ -197,7 +195,3 @@ A window will appear asking you to choose the source type:
 ---
 ## Result
 The acquisition process using FTK Imager was successfully carried out on the selected evidence source. A forensic image in E01 format was created and verified using multiple hashing algorithms (MD5, SHA1, and SHA256). The computed values matched the expected results, confirming the integrity of the image.
-
-## References
-- [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
-- FTK Imager Documentation
