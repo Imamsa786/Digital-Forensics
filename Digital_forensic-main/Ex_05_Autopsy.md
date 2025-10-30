@@ -4,8 +4,7 @@ To study and utilize Autopsy, an open-source digital forensics platform, for ana
 # Description
 Autopsy is an open-source digital forensics tool used to analyze hard drives, memory dumps, and mobile devices. It helps investigators extract, recover, and examine digital evidence efficiently during forensic investigations.
 # Tools Required
-- Autopsy (Digital Forensics Analysis Tool)  
-- Sleuth Kit (Backend utilities)  
+- Autopsy  
 - Windows/Linux Operating System  
 - Sample Disk Image  
 - Web Browser
