@@ -12,7 +12,10 @@ FTK Imager is a forensic acquisition tool developed by AccessData that allows in
 - Right-click the FTK Imager icon and select **Run as administrator**.
 <br>
 <br>
-![Image](https://github.com/user-attachments/assets/16c58e5a-5b6a-4e62-b67f-b2f0307f3663)
+<img width="1110" height="832" alt="Screenshot 2025-10-31 011313" src="https://github.com/user-attachments/assets/5b57fa47-ad27-4fda-b94a-8f50b478c8b2" />
+
+
+
 <br>
 <br>
 
