@@ -186,12 +186,5 @@ A window will appear asking you to choose the source type:
 - A final window shows **MD5** and **SHA1** hashes for both the source drive and image.  
 - Matching hashes confirm the forensic image’s integrity.
 
----
-## Notes
-
-- Always use a **write-blocker** to prevent modifications to the evidence.  
-- **Hash verification** is critical to maintain a chain of custody and admissibility in court.  
-- **Image Fragmentation** is useful for large drives or storage limitations.
----
 ## Result
 The acquisition process using FTK Imager was successfully carried out on the selected evidence source. A forensic image in E01 format was created and verified using multiple hashing algorithms (MD5, SHA1, and SHA256). The computed values matched the expected results, confirming the integrity of the image.
